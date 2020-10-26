@@ -2,7 +2,7 @@
 
 https://yegorkartcev.github.io/
 
-A simulator of Saymon Says game
+A simulator of Simon Says game
 
 ![](/images/img1.JPG)
 
